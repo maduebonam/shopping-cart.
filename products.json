@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "T-SHIRT",
+        "price": 300,
+        "image": "image/t1.png"
+    },
+    {
+        "id": 2,
+        "name": "IPHONE",
+        "price": 800,
+        "image": "image/t2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "WRIST-WATCH",
+        "price": 120,
+        "image": "image/t3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "SNEAKER",
+        "price": 125,
+        "image": "image/t4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "T-SHIRT",
+        "price": 360,
+        "image": "image/t5.png"
+    },
+    {
+        "id": 6,
+        "name": "T-SHIRT",
+        "price": 150,
+        "image": "image/t6.png"
+    }
+]
